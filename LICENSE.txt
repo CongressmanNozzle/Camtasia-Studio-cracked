@@ -16,4 +16,4 @@ Camtasia Studio Edition. professional screen recording, video editing, annotatio
 
 
 TAGS
-camtasia-studio, techsmith-camtasia, tutorial-video-maker                                         
+camtasia-studio, techsmith-camtasia, tutorial-video-maker                                          
